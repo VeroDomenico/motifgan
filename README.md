@@ -1,7 +1,7 @@
 # motifgan
 
 ### Authors
-Andy Chamberlain, Tyler Weir, Dominic Meconi
+Andy Chamberlain, Dominic Meconi, Tyler Weir
 
 ### Summary
 MotifGAN is a GAN model trained to produce novel examples of the specific musical motif it was trained on. 
